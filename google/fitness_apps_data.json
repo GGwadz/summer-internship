@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Home Workout App: Fitness",
+    "platform": "Google Play",
+    "category": "Health & Fitness",
+    "rating": 4.9,
+    "review_count": "82,043",
+    "downloads": "1M+",
+    "last_updated": "Unknown",
+    "features": {
+      "modality": "Nutrition Tracking, Workout Training, Cardio Activities, Activity Tracking",
+      "personalization": "Personalized recommendations",
+      "leaderboard": "Social features and challenges",
+      "equipment": "Gym equipment options"
+    },
+    "sentiment": "Highly rated by users with excellent reviews. 82,043 total reviews.",
+    "developer": "EZ Health",
+    "price": "$",
+    "package_name": "homeworkoutapp.homeworkout.fitness.workout.loseweight",
+    "content_rating": "Everyone",
+    "version": "1.2.2"
+  },
+  {
+    "name": "Fitify: Fitness, Home Workout",
+    "platform": "Google Play",
+    "category": "Health & Fitness",
+    "rating": 4.8,
+    "review_count": "353,183",
+    "downloads": "10M+",
+    "last_updated": "Unknown",
+    "features": {
+      "modality": "Workout Training, Cardio Activities, Activity Tracking, Wellness",
+      "personalization": "Personalized recommendations",
+      "leaderboard": "Social features and challenges",
+      "equipment": "Gym equipment options"
+    },
+    "sentiment": "Highly rated by users with excellent reviews. 353,183 total reviews.",
+    "developer": "Fitify Workouts s.r.o.",
+    "price": "$",
+    "package_name": "com.fitifyworkouts.bodyweight.workoutapp",
+    "content_rating": "Everyone",
+    "version": "1.102.2"
+  },
+  {
+    "name": "Boxing Training & Workout App",
+    "platform": "Google Play",
+    "category": "Health & Fitness",
+    "rating": 4.7,
+    "review_count": "9,049",
+    "downloads": "1M+",
+    "last_updated": "Unknown",
+    "features": {
+      "modality": "Nutrition Tracking, Workout Training, Cardio Activities, Activity Tracking",
+      "personalization": "Personalized recommendations",
+      "leaderboard": "Individual",
+      "equipment": "Gym equipment options"
+    },
+    "sentiment": "Highly rated by users with excellent reviews. 9,049 total reviews.",
+    "developer": "Heavy Bag Pro",
+    "price": "$",
+    "package_name": "com.opentechiz.heavybagpro",
+    "content_rating": "Everyone 10+",
+    "version": "2.1.4"
+  },
+  {
+    "name": "Map My Fitness Workout Tracker",
+    "platform": "Google Play",
+    "category": "Health & Fitness",
+    "rating": 4.6,
+    "review_count": "65,695",
+    "downloads": "1M+",
+    "last_updated": "Unknown",
+    "features": {
+      "modality": "Nutrition Tracking, Workout Training, Cardio Activities, Activity Tracking, Wellness",
+      "personalization": "Personalized recommendations",
+      "leaderboard": "Social features and challenges",
+      "equipment": "Gym equipment options"
+    },
+    "sentiment": "Highly rated by users with excellent reviews. 65,695 total reviews.",
+    "developer": "MapMyFitness, Inc.",
+    "price": "$",
+    "package_name": "com.mapmyfitness.android2",
+    "content_rating": "Everyone",
+    "version": "25.5.0"
+  },
+  {
+    "name": "Pro Gym Workout -Gym & Fitness",
+    "platform": "Google Play",
+    "category": "Health & Fitness",
+    "rating": 4.6,
+    "review_count": "79,399",
+    "downloads": "10M+",
+    "last_updated": "Unknown",
+    "features": {
+      "modality": "Nutrition Tracking, Workout Training, Cardio Activities, Activity Tracking",
+      "personalization": "Personalized recommendations",
+      "leaderboard": "Individual",
+      "equipment": "Gym equipment options"
+    },
+    "sentiment": "Highly rated by users with excellent reviews. 79,399 total reviews.",
+    "developer": "FitCraft Technologies",
+    "price": "$",
+    "package_name": "com.workout.workout",
+    "content_rating": "Everyone",
+    "version": "6.0"
+  }
+]
