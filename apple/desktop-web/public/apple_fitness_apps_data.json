@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Orangetheory Fitness",
+    "platform": "Apple App Store",
+    "category": "Health & Fitness",
+    "rating": 4.9,
+    "review_count": "473,692",
+    "downloads": "50M+",
+    "last_updated": "2025-06-12",
+    "features": {
+      "modality": "Workout Training, Activity Tracking",
+      "personalization": "Personalized recommendations and coaching",
+      "leaderboard": "Individual",
+      "equipment": "Apple Watch and wearable integration"
+    },
+    "sentiment": "Highly rated with excellent user satisfaction. Based on 473,692 App Store reviews.",
+    "developer": "Orangetheory Fitness",
+    "price": "Free",
+    "app_id": "1424351827",
+    "bundle_id": "com.orangetheoryfitness.orangetheory",
+    "content_rating": "4+",
+    "version": "4.7.0"
+  },
+  {
+    "name": "Peloton: Fitness & Workouts",
+    "platform": "Apple App Store",
+    "category": "Health & Fitness",
+    "rating": 4.9,
+    "review_count": "785,337",
+    "downloads": "5M+",
+    "last_updated": "2025-06-17",
+    "features": {
+      "modality": "Workout Training, Cardio Activities, Activity Tracking, Wellness & Mindfulness, Strength Training",
+      "personalization": "Personalized recommendations and coaching",
+      "leaderboard": "Social features and community challenges",
+      "equipment": "Gym equipment options available"
+    },
+    "sentiment": "Highly rated with excellent user satisfaction. Based on 785,337 App Store reviews.",
+    "developer": "Peloton Interactive, Inc.",
+    "price": "Free",
+    "app_id": "792750948",
+    "bundle_id": "com.Peloton.PelotonApp",
+    "content_rating": "12+",
+    "version": "15.108.0"
+  },
+  {
+    "name": "BODi Fitness & Workout App",
+    "platform": "Apple App Store",
+    "category": "Health & Fitness",
+    "rating": 4.9,
+    "review_count": "289,955",
+    "downloads": "1M+",
+    "last_updated": "2025-06-18",
+    "features": {
+      "modality": "Nutrition Tracking, Workout Training, Cardio Activities, Activity Tracking, Wellness & Mindfulness, Strength Training",
+      "personalization": "Personalized recommendations and coaching",
+      "leaderboard": "Individual",
+      "equipment": "Gym equipment options available"
+    },
+    "sentiment": "Highly rated with excellent user satisfaction. Based on 289,955 App Store reviews.",
+    "developer": "Beachbody, LLC",
+    "price": "Free",
+    "app_id": "1031660123",
+    "bundle_id": "com.beachbody.bod",
+    "content_rating": "4+",
+    "version": "9.24.1"
+  },
+  {
+    "name": "FitOn Workouts & Fitness Plans",
+    "platform": "Apple App Store",
+    "category": "Health & Fitness",
+    "rating": 4.9,
+    "review_count": "282,773",
+    "downloads": "10M+",
+    "last_updated": "2025-05-29",
+    "features": {
+      "modality": "Nutrition Tracking, Workout Training, Cardio Activities, Activity Tracking, Wellness & Mindfulness, Strength Training",
+      "personalization": "Personalized recommendations and coaching",
+      "leaderboard": "Social features and community challenges",
+      "equipment": "Gym equipment options available"
+    },
+    "sentiment": "Highly rated with excellent user satisfaction. Based on 282,773 App Store reviews.",
+    "developer": "FitOn Inc.",
+    "price": "Free",
+    "app_id": "1442473191",
+    "bundle_id": "com.fitonapp.fiton",
+    "content_rating": "4+",
+    "version": "v7.0.1"
+  },
+  {
+    "name": "Workout for Women: Home Fit",
+    "platform": "Apple App Store",
+    "category": "Health & Fitness",
+    "rating": 4.8,
+    "review_count": "522,666",
+    "downloads": "5M+",
+    "last_updated": "2025-06-13",
+    "features": {
+      "modality": "Workout Training, Cardio Activities, Activity Tracking, Wellness & Mindfulness, Strength Training",
+      "personalization": "Personalized recommendations and coaching",
+      "leaderboard": "Social features and community challenges",
+      "equipment": "Bodyweight"
+    },
+    "sentiment": "Highly rated with excellent user satisfaction. Based on 522,666 App Store reviews.",
+    "developer": "Fast Builder Limited",
+    "price": "Free",
+    "app_id": "839285684",
+    "bundle_id": "com.oneothergame.7min-fitness",
+    "content_rating": "4+",
+    "version": "8.2.1"
+  }
+]
